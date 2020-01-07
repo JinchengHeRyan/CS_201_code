@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_3_29",
+            "request": "launch",
+            "mainClass": "Problem_1_3_29",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_try",
+            "request": "launch",
+            "mainClass": "test_try",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_32",
+            "request": "launch",
+            "mainClass": "Problem_1_2_32",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_30",
+            "request": "launch",
+            "mainClass": "Problem_1_2_30",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_29",
+            "request": "launch",
+            "mainClass": "Problem_1_2_29",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_28",
+            "request": "launch",
+            "mainClass": "Problem_1_2_28",
+            "projectName": "Homework 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Homework 1"
+        }
+    ]
+}

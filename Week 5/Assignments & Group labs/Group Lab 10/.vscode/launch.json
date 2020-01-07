@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Binary_search",
+            "request": "launch",
+            "mainClass": "Binary_search",
+            "projectName": "Group Lab 10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Group Lab 10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDriver",
+            "request": "launch",
+            "mainClass": "TestDriver",
+            "projectName": "Group Lab 10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dict_tree",
+            "request": "launch",
+            "mainClass": "Dict_tree",
+            "projectName": "Group Lab 10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dict_tree_node",
+            "request": "launch",
+            "mainClass": "Dict_tree_node",
+            "projectName": "Group Lab 10"
+        }
+    ]
+}

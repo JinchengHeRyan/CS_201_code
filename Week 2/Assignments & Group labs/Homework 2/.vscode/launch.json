@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_4_18",
+            "request": "launch",
+            "mainClass": "Problem_1_4_18",
+            "projectName": "Homework 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_4_15",
+            "request": "launch",
+            "mainClass": "Problem_1_4_15",
+            "projectName": "Homework 2"
+        }
+    ]
+}

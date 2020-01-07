@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "Group Lab 13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordLadder1",
+            "request": "launch",
+            "mainClass": "WordLadder1",
+            "projectName": "Group Lab 13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDriver",
+            "request": "launch",
+            "mainClass": "TestDriver",
+            "projectName": "Group Lab 13"
+        }
+    ]
+}

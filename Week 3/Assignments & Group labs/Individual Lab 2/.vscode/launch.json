@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_3_1_32",
+            "request": "launch",
+            "mainClass": "Problem_3_1_32",
+            "projectName": "Individual Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Individual Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_3_1_17",
+            "request": "launch",
+            "mainClass": "Problem_3_1_17",
+            "projectName": "Individual Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_3_1_16",
+            "request": "launch",
+            "mainClass": "Problem_3_1_16",
+            "projectName": "Individual Lab 2"
+        }
+    ]
+}

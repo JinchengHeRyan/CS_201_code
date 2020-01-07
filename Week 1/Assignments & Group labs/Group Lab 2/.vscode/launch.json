@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hellos",
+            "request": "launch",
+            "mainClass": "Hellos",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_3_8",
+            "request": "launch",
+            "mainClass": "Problem_1_3_8",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_18",
+            "request": "launch",
+            "mainClass": "Problem_1_2_18",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_17",
+            "request": "launch",
+            "mainClass": "Problem_1_2_17",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_16",
+            "request": "launch",
+            "mainClass": "Problem_1_2_16",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_1_2_5",
+            "request": "launch",
+            "mainClass": "Problem_1_2_5",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_try",
+            "request": "launch",
+            "mainClass": "test_try",
+            "projectName": "Group Lab 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem_1_2_3<Group Lab 2>",
+            "request": "launch",
+            "mainClass": "Problem_1_2_3",
+            "projectName": "Group Lab 2"
+        }
+    ]
+}

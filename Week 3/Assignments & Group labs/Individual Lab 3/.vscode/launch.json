@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Point",
+            "request": "launch",
+            "mainClass": "Point",
+            "projectName": "Individual Lab 3"
+        }
+    ]
+}

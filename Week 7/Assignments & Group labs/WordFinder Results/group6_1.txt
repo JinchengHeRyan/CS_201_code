@@ -1,0 +1,83 @@
+round 0 player 0
+================
+
+added letters [a, b, c, d, e, w, x]
+playing abdce -> abduce @ 1,5 [v]
+__________
+_____a____
+_____b____
+_____d____
+____duke__
+_____c____
+_____e____
+__________
+__________
+__________
+
+score 5
+letters left [w, x]
+
+
+round 1 player 1
+================
+
+added letters [y, z, a, e, i, o, u]
+playing zoeia -> zoecia @ 5,2 [h]
+__________
+_____a____
+_____b____
+_____d____
+____duke__
+__zoecia__
+_____e____
+__________
+__________
+__________
+
+score 5
+letters left [y, u]
+
+
+round 2 player 0
+================
+
+playing w -> aw @ 1,5 [h]
+__________
+_____aw___
+_____b____
+_____d____
+____duke__
+__zoecia__
+_____e____
+__________
+__________
+__________
+
+score 6
+letters left [x]
+
+
+round 3 player 1
+================
+
+playing ay -> way @ 1,6 [h]
+__________
+_____away_
+_____b____
+_____d____
+____duke__
+__zoecia__
+_____e____
+__________
+__________
+__________
+
+game over - played word using letter not in hand: a
+deducting 2 points from remaining letters in hand
+
+
+final scores
+============
+
+player 0 score 6
+player 1 score 3

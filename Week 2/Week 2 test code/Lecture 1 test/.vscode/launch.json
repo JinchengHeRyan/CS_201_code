@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - draft",
+            "request": "launch",
+            "mainClass": "draft",
+            "projectName": "test_draft"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "test_draft"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValueVsReference",
+            "request": "launch",
+            "mainClass": "ValueVsReference",
+            "projectName": "test_draft"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_one",
+            "request": "launch",
+            "mainClass": "test_one",
+            "projectName": "test_draft"
+        }
+    ]
+}

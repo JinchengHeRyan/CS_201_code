@@ -1,0 +1,164 @@
+
+round 0 player 0
+================
+
+added letters [a, b, c, d, e, f, g]
+playing abdce -> abduce @ 1,5 [v]
+__________
+_____a____
+_____b____
+_____d____
+____duke__
+_____c____
+_____e____
+__________
+__________
+__________
+
+score 5
+letters left [f, g]
+
+
+round 1 player 1
+================
+
+added letters [h, i, j, k, l, m, n]
+playing mlkin -> malkin @ 1,4 [h]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+_____c____
+_____e____
+__________
+__________
+__________
+
+score 5
+letters left [h, j]
+
+
+round 2 player 0
+================
+
+added letters [o, p, q, r, s]
+playing forg -> forge @ 6,1 [h]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+_____c____
+_forge____
+__________
+__________
+__________
+
+score 9
+letters left [p, q, s]
+
+
+round 3 player 1
+================
+
+added letters [t, u, v, w, x]
+playing hut -> hout @ 5,2 [v]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+__h__c____
+_forge____
+__u_______
+__t_______
+__________
+
+score 8
+letters left [j, v, w, x]
+
+
+round 4 player 0
+================
+
+added letters [y, z, a, e]
+playing asey -> arsey @ 5,3 [v]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+__ha_c____
+_forge____
+__us______
+__te______
+___y______
+
+score 13
+letters left [p, q, z]
+
+
+round 5 player 1
+================
+
+added letters [i, o, u]
+playing uoi -> euoi @ 4,7 [v]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+__ha_c_u__
+_forge_o__
+__us___i__
+__te______
+___y______
+
+score 11
+letters left [j, v, w, x]
+
+
+round 6 player 0
+================
+
+playing p -> op @ 6,7 [h]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+__ha_c_u__
+_forge_op_
+__us___i__
+__te______
+___y______
+
+score 14
+letters left [q, z]
+
+
+round 7 player 1
+================
+
+playing je -> jet @ 8,0 [h]
+__________
+____malkin
+_____b____
+_____d____
+____duke__
+__ha_c_u__
+_forge_op_
+__us___i__
+jete______
+___y______
+
+game over - played word using letter not in hand: e
+deducting 3 points from remaining letters in hand
+
+
+final scores
+============
+
+player 0 score 14
+player 1 score 8

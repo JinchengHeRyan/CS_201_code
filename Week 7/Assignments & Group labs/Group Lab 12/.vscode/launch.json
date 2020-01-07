@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Group Lab 12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDriver",
+            "request": "launch",
+            "mainClass": "TestDriver",
+            "projectName": "Group Lab 12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Group6WordFinder",
+            "request": "launch",
+            "mainClass": "Group6WordFinder",
+            "projectName": "Group Lab 12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDriver2",
+            "request": "launch",
+            "mainClass": "TestDriver2",
+            "projectName": "Group Lab 12"
+        }
+    ]
+}

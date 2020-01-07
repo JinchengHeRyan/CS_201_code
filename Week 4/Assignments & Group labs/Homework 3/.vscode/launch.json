@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Time_2",
+            "request": "launch",
+            "mainClass": "Time_2",
+            "projectName": "Homework 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Time_1",
+            "request": "launch",
+            "mainClass": "Time_1",
+            "projectName": "Homework 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Homework 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Genome",
+            "request": "launch",
+            "mainClass": "Genome",
+            "projectName": "Homework 3"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Group lab 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Minesweeper",
+            "request": "launch",
+            "mainClass": "Minesweeper",
+            "projectName": "Group lab 3"
+        }
+    ]
+}
